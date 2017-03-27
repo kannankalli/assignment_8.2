@@ -1,0 +1,10 @@
+pig -x concat.pig
+pig -x tokenize.pig
+pig -x sum.pig
+pig -x min.pig
+pig -x max.pig
+pig -x limit.pig
+pig -x store.pig
+pig -x distinct.pig
+pig -x flatten.pig
+pig -x isempty.pig
