@@ -1,0 +1,11 @@
+101,kannan,IT,220
+102,amudhan,KID,342
+,,,
+104,kaliammal,HOUSE,232
+105,govindan,,355
+106,selvaraj,BUSINESS,220
+107,Moovendran,government,342
+,,,
+109,Ilakiya,SCHOOL,232
+110,SakhiSree,KID,355
+
